@@ -281,20 +281,6 @@ export const posts = [
     publishDate: "October 31, 2024",
   },
   {
-    id: 22,
-    title: "Cross-Platform Development: React Native vs. Flutter",
-    image_url:
-      "https://images.unsplash.com/photo-1617040619263-41c5a9ca7521?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    paragraph:
-      "Dive into the world of cross-platform mobile app development. Compare the two major players, React Native and Flutter, in terms of performance, developer experience, and versatility.",
-    featured: false,
-    tags: ["mobile development"],
-    authorImage:
-      "https://images.unsplash.com/photo-1519241047957-b7082e773ae7?auto=format&fit=crop&w=1374&q=80",
-    authorName: "Hannah Brooks",
-    publishDate: "February 10, 2024",
-  },
-  {
     id: 23,
     title: "Building Engaging Mobile User Interfaces",
     image_url:

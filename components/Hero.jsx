@@ -1,3 +1,5 @@
+import React from "react";
+
 import Image from "next/image";
 import { posts } from "../constants/posts";
 import Link from "next/link";

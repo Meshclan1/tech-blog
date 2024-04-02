@@ -11,7 +11,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1579038773867-044c48829161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
     authorName: "Antonio Rogers",
-    publishDate: "September 27, 2023",
+    publishDate: "December 16, 2023",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1579038773867-044c48829161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
     authorName: "Antonio Rogers",
-    publishDate: "September 27, 2023",
+    publishDate: "October 27, 2024",
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1594&q=80",
     authorName: "Antonio Rogers",
-    publishDate: "September 27, 2023",
+    publishDate: "September 27, 2024",
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1579038773867-044c48829161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
     authorName: "Antonio Rogers",
-    publishDate: "September 27, 2023",
+    publishDate: "September 27, 2024",
   },
 
   {
@@ -68,7 +68,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1594&q=80",
     authorName: "Antonio Rogers",
-    publishDate: "September 27, 2023",
+    publishDate: "September 27, 2024",
   },
   {
     id: 7,
@@ -82,7 +82,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?auto=format&fit=crop&w=1594&q=80",
     authorName: "Clara Jordan",
-    publishDate: "January 15, 2023",
+    publishDate: "January 15, 2024",
   },
   {
     id: 8,
@@ -96,7 +96,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?auto=format&fit=crop&w=1594&q=80",
     authorName: "Michael Foster",
-    publishDate: "March 22, 2023",
+    publishDate: "March 22, 2024",
   },
   {
     id: 9,
@@ -110,7 +110,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1594&q=80",
     authorName: "Lucia Gray",
-    publishDate: "June 9, 2023",
+    publishDate: "November 9, 2023",
   },
   {
     id: 10,
@@ -124,7 +124,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1594&q=80",
     authorName: "Ethan Douglas",
-    publishDate: "August 27, 2023",
+    publishDate: "March 27, 2024",
   },
   {
     id: 11,
@@ -138,7 +138,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1500522144261-ea64433bbe27?auto=format&fit=crop&w=1594&q=80",
     authorName: "Sophia Hart",
-    publishDate: "October 14, 2023",
+    publishDate: "March 14, 2024",
   },
   {
     id: 12,
@@ -152,7 +152,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1611432579699-484f7990b127?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     authorName: "Clara Jordan",
-    publishDate: "February 12, 2023",
+    publishDate: "February 12, 2024",
   },
   {
     id: 13,
@@ -166,7 +166,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     authorName: "Ethan Douglas",
-    publishDate: "April 7, 2023",
+    publishDate: "April 1, 2024",
   },
   {
     id: 14,
@@ -180,7 +180,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1499358517822-d8578907a095?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80",
     authorName: "Sophia Hart",
-    publishDate: "June 3, 2023",
+    publishDate: "September 3, 2023",
   },
   {
     id: 15,
@@ -194,7 +194,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80",
     authorName: "Michael Foster",
-    publishDate: "July 19, 2023",
+    publishDate: "September 19, 2023",
   },
   {
     id: 16,
@@ -208,7 +208,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1495716868937-273203d5bb0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     authorName: "Lucia Gray",
-    publishDate: "October 5, 2023",
+    publishDate: "February 29, 2024",
   },
   {
     id: 17,
@@ -222,7 +222,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1610130383669-95917c70ca20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     authorName: "Rebecca Lawrence",
-    publishDate: "February 3, 2023",
+    publishDate: "February 13, 2024",
   },
   {
     id: 18,
@@ -236,7 +236,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1374&q=80",
     authorName: "Oliver Martin",
-    publishDate: "April 12, 2023",
+    publishDate: "January 2, 2024",
   },
   {
     id: 19,
@@ -250,7 +250,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=1374&q=80",
     authorName: "Sophie Diaz",
-    publishDate: "June 24, 2023",
+    publishDate: "January 24, 2024",
   },
   {
     id: 20,
@@ -264,7 +264,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1564564244660-5d73c057f2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80",
     authorName: "Jacob Fields",
-    publishDate: "July 13, 2023",
+    publishDate: "November 13, 2024",
   },
   {
     id: 21,
@@ -278,7 +278,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1374&q=80",
     authorName: "Elena Castillo",
-    publishDate: "October 20, 2023",
+    publishDate: "October 31, 2024",
   },
   {
     id: 22,
@@ -292,7 +292,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1519241047957-b7082e773ae7?auto=format&fit=crop&w=1374&q=80",
     authorName: "Hannah Brooks",
-    publishDate: "February 10, 2023",
+    publishDate: "February 10, 2024",
   },
   {
     id: 23,
@@ -306,7 +306,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1513245543132-31f507417b26?auto=format&fit=crop&w=1374&q=80",
     authorName: "Lucas Gray",
-    publishDate: "April 5, 2023",
+    publishDate: "March 5, 2024",
   },
   {
     id: 24,
@@ -320,7 +320,7 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1542345812-d98b5cd6cf98?auto=format&fit=crop&w=1374&q=80",
     authorName: "Eva Jensen",
-    publishDate: "June 20, 2023",
+    publishDate: "March 20, 2024",
   },
   {
     id: 25,
@@ -334,6 +334,6 @@ export const posts = [
     authorImage:
       "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1374&q=80",
     authorName: "Daniel Stewart",
-    publishDate: "August 18, 2023",
+    publishDate: "December 18, 2024",
   },
 ];

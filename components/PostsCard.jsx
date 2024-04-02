@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { BsArrowRightShort } from "react-icons/bs";
+
 const PostsCard = ({ post, index }) => {
   return (
     <Link

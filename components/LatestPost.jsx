@@ -1,5 +1,5 @@
 import { posts } from "../constants/posts";
-import PostsCard from "./PostsCards";
+import PostsCard from "./PostsCard";
 
 const LatestPost = () => {
   return (
@@ -11,7 +11,7 @@ const LatestPost = () => {
           </div>
           <div className="relative flex justify-center">
             <span className="bg-gray-100 px-3 text-gray-900 text-2xl dark:bg-medium dark:text-gray-50">
-              Latest Post
+              Latest Posts
             </span>
           </div>
         </div>

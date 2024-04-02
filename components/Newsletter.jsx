@@ -10,7 +10,7 @@ const Newsletter = () => {
         </div>
         <div>
           <form className="newsletter-form">
-            <label for="email" className="sr-only">
+            <label htmlFor="email" className="sr-only">
               email
             </label>
             <input

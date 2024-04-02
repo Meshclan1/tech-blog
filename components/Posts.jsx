@@ -3,6 +3,7 @@
 import { useState } from "react";
 import PostsCard from "./PostsCard";
 import PostFilter from "./PostFilter";
+
 const Posts = () => {
   const [activeCategory, setActiveCategory] = useState("all");
   const [filtered, setFiltered] = useState([]);

@@ -1,6 +1,7 @@
 
 <img width="1344" alt="Screenshot 2024-04-11 at 14 30 29" src="https://github.com/Meshclan1/tech-blog/assets/100096778/751ed335-29d6-424f-a1e9-26d913a4fd62">
 
+---
 
 <img width="1327" alt="Screenshot 2024-04-11 at 14 30 56" src="https://github.com/Meshclan1/tech-blog/assets/100096778/8a9c740c-333b-47f1-8fb7-6db6c9aba3e3">
 
